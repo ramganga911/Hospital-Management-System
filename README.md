@@ -4,8 +4,7 @@
 
 ### Contributors
 
-- Rajnish Kumar (2K21/IT/139)
-- Ritik (2K21/IT/145)
+- Ramganga Kumar (2K21/IT/141)
 - Rugung Daimary (2K21/IT/151)
 
 ## Introduction:
